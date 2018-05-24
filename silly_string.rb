@@ -48,4 +48,3 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 
 sentence = sentence.gsub("A", "O").gsub("a", "o") # Add your gsub chain here
 
-puts sentence
